@@ -8,7 +8,7 @@ Decker is hosted on GitHub, so first step is to [download the code](https://gith
 
 ## Prepare
  Open a terminal emulator and install SDL2 and SDL_image. On Ubuntu and Debian that can be done uning APT:
-`sudo apt install libsdl2-2.0-0 libsdl2-dev libsdl2-image-dev`
+* `sudo apt install libsdl2-2.0-0 libsdl2-dev libsdl2-image-dev`
 
 ## Build
 Navigate to the Decker folder and run the following command to compile decker:
