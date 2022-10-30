@@ -1,4 +1,4 @@
-# decker-linux
+# Decker on Linux
  Instructions for installing Decker on Linux (apt)
 
  [Decker](https://beyondloom.com/decker/index.html) is an interactive media platform in the spirit of HyperCard. It comes in two versions, one that runs as a web page and one that runs independantly. This is a guide on how to install the independant version on Linux.
