@@ -1,7 +1,7 @@
 # Decker on Linux
  Instructions for building and installing Decker on Linux
 
- [Decker](https://beyondloom.com/decker/index.html) is an interactive media platform in the spirit of HyperCard. It comes in two versions, one that runsin a web browser as a [web page](http://beyondloom.com/decker/tour.html) and one that runs independantly. This is a guide on how to install the independant version on Linux.
+ [Decker](https://beyondloom.com/decker/index.html) is an interactive media platform in the spirit of HyperCard. It comes in two versions, one that runs in a web browser as a [web page](http://beyondloom.com/decker/tour.html) and one that runs independantly. This is a guide on how to install the independant version on Linux.
 
  ## Fork
 Decker is hosted on GitHub, so first step is to [download the code](https://github.com/JohnEarnest/Decker) from there.
