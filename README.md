@@ -18,7 +18,7 @@ Decker is hosted on GitHub, so first step is to [download the code](https://gith
  Install Decker by running the following command:
 *  `sudo make install`
 
- ## Link
+ ## GUI launcher
 Decker is now installed and can be run by writing `decker` in the terminal emulator. To lauch it graphically we need two more files from this ([decker-linux](https://github.com/1jss/decker-linux)) repo.
 * Copy `decker.png` to the folder `/usr/share/icons/hicolor/64x64/apps/`.
 * Copy `decker.desktop` to the folder `/usr/share/applications/`
